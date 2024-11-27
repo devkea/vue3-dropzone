@@ -1,9 +1,9 @@
 {
-  "name": "@jaxtheprime/vue3-dropzone",
+  "name": "@devkea/vue3-dropzone",
   "description": "Vue simple dropzone",
   "private": false,
   "version": "3.3.0",
-  "author": "Emad Moghimi <jaxtheprime@gmail.com>",
+  "author": "Evgeniy Kuznetsov <mail@devkea.ru>",
   "license": "MIT",
   "type": "module",
   "files": [
@@ -34,7 +34,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JaxThePrime/vue3-dropzone"
+    "url": "git+https://github.com/devkea/vue3-dropzone"
   },
   "dependencies": {
     "vue": "^3.4.19"
